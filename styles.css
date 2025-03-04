@@ -68,3 +68,7 @@ header {
   border: 2px solid #ffffff;
   color: white;
 }
+
+.result {
+  font-size: 20px;
+}
